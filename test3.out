@@ -1,0 +1,20 @@
+success
+success
+success
+success
+success // eval simple
+success // eval decimal
+failure // eval
+success // get same size
+failure // get diff size 
+failure // get
+success // add same size
+failure // add same size
+success // mult same size 
+failure // mult same size
+success
+success
+success // add diff size
+success // mult diff size
+success
+success // wrong sized init
