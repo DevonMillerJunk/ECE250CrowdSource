@@ -3,5 +3,6 @@
     - The inputs are garunteed to be in order, with no skips, no repeates, and no errors, as follows: 
     "COMMAND EXP COEFF;EXP COEFF;EXP COEFF ..." The line does not end with a ";".
 3. Is there a limit to how many polynomials we can receive with the input?
+4. Can a polynomial of degree n have a coefficient of 0 for x^n?  If yes, shoud, for example, 1 + x and 1 + x + 0x^2 be considered equal when compared?
 
 REMINDER: MAKE A FLOAT COMPARISON FUNCTION!!!! FLoats will not turn out exactly alike so make a comparison one just in case.
