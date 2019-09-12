@@ -7,7 +7,7 @@ coeff_p1 0 1.0;1 2.0;2 3.0;3 4.0;4 -5.0
 eval 3 -857
 eval 3 -263
 init 1
-coeff_p1 0 10
+coeff_p1 0 10.0
 eval 420 10
 eval 420 -1
 init 7
