@@ -11,8 +11,8 @@ init 2
 coeff_p1 0 1.0;1 2.0;2 3.0 
 init 1
 coeff_p2 0 0
-mult 0 0;
-mult 0 0;1 0;2 0;
+mult 0 0
+mult 0 0;1 0;2 0
 init 2
 coeff_p2 0 3;1 9
 init 10
