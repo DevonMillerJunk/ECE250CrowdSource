@@ -10,7 +10,7 @@ python3 king_julien.py <relative path to exectuable file> <project number> -inpu
 
 It can be used to quickly test the crowd sourced test cases on github.
 
-Requirments:
+Requirements:
 
 	An executable file (output of g++ ex a.out)
 	Unix environment to use this script (One of the shells where you can 'cd')
