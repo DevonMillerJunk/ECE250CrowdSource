@@ -1,0 +1,41 @@
+could not erase -1
+could not erase 0
+could not erase 1
+could not play -1
+could not play 0
+could not play 1
+success
+can not insert Name;Artist
+success
+success
+success
+success
+could not erase -1
+could not erase 0
+success
+could not play -1
+could not play 0
+played 1 NewName;NewArtist
+played 4 Name;Artist2
+success
+could not erase 4
+played 3 Name2;Artist2
+success
+played 2 Name2;Artist2
+success
+could not play 4
+played 3 Name;Artist
+played 2 Name2;Artist2
+played 1 Name2;Artist
+success
+could not play 3
+played 2 Name;Artist
+played 1 Name2;Artist2
+success
+could not play 2
+played 1 Name;Artist
+success
+could not play 1
+could not erase 1
+could not play 1
+could not play 4
