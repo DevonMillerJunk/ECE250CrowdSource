@@ -54,6 +54,8 @@ exec = args.executable
 project_num = args.project_num
 purge = not args.no_purge
 output_suffix = args.output_suffix
+if(not output_suffix):
+    output_suffix = ""
 
 
 
