@@ -39,6 +39,7 @@ parser.add_argument("project_num",help="project number that is being tested i.e.
 parser.add_argument("-no-purge",help="Saves the temp directory for manual inspection", action='store_true')
 parser.add_argument("-input",help="Run given input file locally, dont use git, must be used in conjunction with -out")
 parser.add_argument("-output",help="output file that is considered to be the 'solution' to the -in file.")
+parser.add_argument("-output-suffix",help="Currently only for project two, specify open or chain")
 
 args = parser.parse_args()
 
@@ -52,6 +53,7 @@ if args.output and (args.input is None):
 exec = args.executable
 project_num = args.project_num
 purge = not args.no_purge
+output_suffix = args.output_suffix
 
 
 
@@ -102,7 +104,7 @@ def getTestsFromGit(num):
     for file in files:
         if file.endswith('in'):
             input.append(file_prefix + file)
-        if file.endswith('out'):
+        if file.endswith(output_suffix + '.out'):
             output.append(file_prefix + file)
     input.sort()
     output.sort()
