@@ -1,0 +1,25 @@
+tree size 0
+success
+success
+success
+success
+success
+success
+tree size 6
+Montreal Oshawa Toronto Hamilton London Vancouver 
+found Toronto
+found Oshawa
+max 3678000
+failure
+max 2313328
+max 721053
+min 450963
+failure
+min 2313328
+min 346765
+total 4128963
+failure
+total 2313328
+total 1067818
+success
+tree size 0
