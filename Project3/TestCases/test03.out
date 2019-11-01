@@ -8,11 +8,11 @@ success
 Montreal Ottawa Toronto 
 success
 success
-Montreal Ottawa Toronto Edmonton Calgary 
+Montreal Edmonton Calgary Ottawa Toronto 
 success
 success
 failure
-Montreal Halifax Ottawa Toronto Edmonton Calgary Vancouver 
+Montreal Edmonton Calgary Vancouver Ottawa Toronto Halifax 
 success
 not found
 not found
@@ -24,7 +24,7 @@ success
 success
 success
 success
-Edmonton Calgary Halifax Toronto Montreal Ottawa Victoria 
+Edmonton Calgary Victoria Montreal Ottawa Halifax Toronto 
 failure
 failure
 failure
