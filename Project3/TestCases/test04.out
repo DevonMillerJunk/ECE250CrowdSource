@@ -79,14 +79,14 @@ failure
 failure
 failure
 success
+success
+success
+success
+tree size 11
+city7 city6 city9 city5 city10 city4 city3 city2 city1 city8 city11 
+total 46
 failure
-failure
-failure
-tree size 8
-city7 city6 city5 city4 city3 city2 city1 city8 
-total 27
-failure
-failure
+total 11
 total 8
 success
 success
@@ -96,5 +96,5 @@ success
 tree size 4
 city2 city1 city1 city2 
 not found
-found city2
+not found
 failure
