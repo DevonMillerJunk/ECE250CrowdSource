@@ -1,0 +1,100 @@
+tree size 0
+not found
+not found
+not found
+failure
+failure
+failure
+
+success
+success
+success
+found city2
+found city1
+tree size 2
+city1 city2 
+failure
+failure
+failure
+failure
+success
+success
+success
+success
+success
+success
+tree size 5
+city2 city3 city1 city5 city3 
+found city5
+max 2
+min 4
+total 3
+max 5
+failure
+failure
+failure
+success
+success
+tree size 7
+city7 city2 city3 city1 city5 city6 city3 
+max 4
+max 7
+max 3
+max 6
+min 4
+min 2
+min 3
+min 5
+total 4
+total 9
+total 3
+total 11
+failure
+max 7
+failure
+failure
+failure
+failure
+failure
+total 6
+success
+success
+success
+success
+success
+success
+success
+success
+tree size 7
+city7 city6 city5 city4 city3 city2 city1 
+found city7
+found city2
+failure
+max 7
+failure
+failure
+failure
+total 27
+failure
+failure
+failure
+success
+success
+success
+success
+tree size 11
+city7 city6 city9 city5 city10 city4 city3 city2 city1 city8 city11 
+total 46
+failure
+total 11
+total 8
+success
+success
+success
+success
+success
+tree size 4
+city2 city1 city1 city2 
+not found
+not found
+failure
