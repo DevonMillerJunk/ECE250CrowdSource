@@ -6,20 +6,20 @@ success
 success
 success
 tree size 6
-Montreal Oshawa Toronto Hamilton London Vancouver 
+Montreal Oshawa Vancouver Toronto Hamilton London 
 found Toronto
 found Oshawa
 max 3678000
-failure
 max 2313328
+failure
 max 721053
 min 450963
-failure
 min 2313328
+failure
 min 346765
 total 4128963
-failure
 total 2313328
+failure
 total 1067818
 success
 tree size 0
