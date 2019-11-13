@@ -1,0 +1,42 @@
+success
+success
+success
+success
+success
+success
+success
+success
+success
+failure
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+found city0
+found city8
+not found
+degree of city0 2
+direct distance city0 to city1 4
+shortest distance city0 to city0 0
+shortest distance city0 to city1 4
+shortest distance city0 to city2 12
+shortest distance city0 to city3 19
+shortest distance city0 to city4 21
+shortest distance city0 to city5 11
+shortest distance city0 to city6 9
+shortest distance city0 to city7 8
+shortest distance city0 to city8 14
+number of edges 14
+number of nodes 9
+success
+number of nodes 0

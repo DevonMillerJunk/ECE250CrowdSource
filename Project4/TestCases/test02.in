@@ -1,0 +1,34 @@
+i Toronto
+i Markham
+i Oshawa
+i Belleville
+i Kingston
+i Cornwall
+i Ottawa
+i Montreal
+setd Toronto;Markham;31.3
+setd Toronto;Oshawa;59.9
+setd Oshawa;Ottawa;409.0
+setd Oshawa;Belleville;131.0
+setd Belleville;Kingston;82.4
+setd Kingston;Cornwall;184.0
+setd Belleville;Ottawa;230.0
+setd Ottawa;Montreal;199.0
+setd Cornwall;Montreal;114.0
+setd Markham;Ottawa;374.0
+graph_nodes
+graph_edges
+s Belleville
+s Cornwall
+s Toronto
+s Montreal
+degree Oshawa
+degree Cornwall
+degree Toronto
+d Oshawa;Ottawa
+d Belleville;Kingston
+d Toronto;Montreal
+shortest_d Toronto;Montreal
+print_path Toronto;Montreal
+clear
+graph_nodes

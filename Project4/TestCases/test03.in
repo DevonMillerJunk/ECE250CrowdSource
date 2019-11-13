@@ -1,0 +1,26 @@
+i City0
+i City1
+i City2
+i City3
+i City4
+setd City0;City1;10.0
+setd City0;City2;5.0
+setd City1;City2;3.0
+setd City2;City3;9.0
+setd City2;City4;2.0
+setd City4;City3;6.0
+setd City1;City3;1.0
+graph_nodes
+graph_edges
+s City3
+s City5
+s City4
+degree City2
+degree City4
+degree City0
+d City0;City2
+d City2;City3
+d City2;City4
+shortest_d City0;City4
+clear
+graph_nodes

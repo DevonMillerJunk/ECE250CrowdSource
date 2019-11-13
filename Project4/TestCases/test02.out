@@ -1,0 +1,34 @@
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+number of nodes 8
+number of edges 10
+found Belleville
+found Cornwall
+found Toronto
+found Montreal
+degree of Oshawa 3
+degree of Cornwall 2
+degree of Toronto 2
+direct distance Oshawa to Ottawa 409
+direct distance Belleville to Kingston 82.4
+failure
+shortest distance Toronto to Montreal 571.3
+Toronto Oshawa Bellevill Kingston Cornwall Montreal
+success
+number of nodes 0

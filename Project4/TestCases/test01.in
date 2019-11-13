@@ -1,0 +1,42 @@
+i city0
+i city1
+i city2
+i city3
+i city4
+i city5
+i city6
+i city7
+i city8
+i city0
+setd city0;city1;4.0
+setd city0;city7;8.0
+setd city1;city7;11.0
+setd city1;city2;8.0
+setd city7;city6;1.0
+setd city7;city8;7.0
+setd city2;city8;2.0
+setd city6;city8;6.0
+setd city2;city3;7.0
+setd city6;city5;2.0
+setd city2;city5;4.0
+setd city3;city5;14.0
+setd city3;city4;9.0
+setd city4;city5;10.0
+s city0
+s city8
+s city9
+degree city0
+d city0;city1
+shortest_d city0;city0
+shortest_d city0;city1
+shortest_d city0;city2
+shortest_d city0;city3
+shortest_d city0;city4
+shortest_d city0;city5
+shortest_d city0;city6
+shortest_d city0;city7
+shortest_d city0;city8
+graph_edges
+graph_nodes
+clear
+graph_nodes
