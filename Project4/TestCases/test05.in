@@ -80,6 +80,11 @@ shortest_d 9;11
 print_path 9;11
 shortest_d 10;11
 print_path 10;11
+setd 9;11;11.1
+shortest_d 9;11
+print_path 9;11
+shortest_d 10;8
+print_path 10;8
 s 14
 s 10
 i 12

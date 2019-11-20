@@ -80,6 +80,11 @@ shortest distance 9 to 11 11.2
 9 10 8 11
 shortest distance 10 to 11 9.5
 10 8 11
+success
+shortest distance 9 to 11 11.1
+9 11
+shortest distance 10 to 8 3.9
+10 8
 not found
 found 10
 success
