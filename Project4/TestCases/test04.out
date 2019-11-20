@@ -1,0 +1,104 @@
+success
+success
+success
+success
+success
+success
+success
+success
+success
+failure
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+found city0
+found city8
+not found
+degree of city0 2
+direct distance city0 to city1 4
+shortest distance city0 to city0 0
+shortest distance city0 to city1 4
+shortest distance city0 to city2 12
+shortest distance city0 to city3 19
+shortest distance city0 to city4 21
+shortest distance city0 to city5 11
+shortest distance city0 to city6 9
+shortest distance city0 to city7 8
+shortest distance city0 to city8 14
+number of edges 14
+number of nodes 9
+success
+number of nodes 0
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+number of nodes 8
+number of edges 10
+found Belleville
+found Cornwall
+found Toronto
+found Montreal
+degree of Oshawa 3
+degree of Cornwall 2
+degree of Toronto 2
+direct distance Oshawa to Ottawa 409
+direct distance Belleville to Kingston 82.4
+failure
+shortest distance Toronto to Montreal 571.3
+Toronto Oshawa Belleville Kingston Cornwall Montreal
+success
+number of nodes 0
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+number of nodes 5
+number of edges 7
+found City3
+not found
+found City4
+degree of City2 4
+degree of City4 2
+degree of City0 2
+direct distance City0 to City2 5
+direct distance City2 to City3 9
+direct distance City2 to City4 2
+shortest distance City0 to City4 7
+success
+number of nodes 0
