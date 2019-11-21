@@ -1,0 +1,105 @@
+number of nodes 0
+number of edges 0
+failure
+failure
+failure
+failure
+not found
+not found
+success
+failure
+failure
+failure
+degree of city1 0
+not found
+success
+success
+direct distance city1 to city2 5.5
+shortest distance city1 to city2 5.5
+city1 city2
+direct distance city2 to city1 5.5
+shortest distance city2 to city1 5.5
+city2 city1
+failure
+shortest distance city1 to city1 0
+city1
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+degree of 2 4
+number of nodes 7
+number of edges 8
+shortest distance 1 to 6 28
+1 4 2 3 5 6
+shortest distance 1 to 7 6
+1 4 2 7
+shortest distance 3 to 1 6
+3 2 4 1
+success
+success
+degree of 2 5
+number of nodes 7
+number of edges 10
+shortest distance 1 to 6 8
+1 4 2 6
+shortest distance 1 to 7 6
+1 4 2 7
+shortest distance 3 to 1 3
+3 4 1
+success
+success
+success
+success
+found 1
+failure
+failure
+failure
+failure
+success
+success
+success
+success
+success
+shortest distance 9 to 11 11.2
+9 10 8 11
+success
+shortest distance 9 to 11 11.2
+9 10 8 11
+shortest distance 10 to 11 9.5
+10 8 11
+success
+shortest distance 9 to 11 11.1
+9 11
+shortest distance 10 to 8 3.9
+10 8
+not found
+found 10
+success
+failure
+failure
+failure
+found 12
+success
+success
+found city2
+success
+success
+success
+success
+failure
+shortest distance city1 to city3 2
+city1 city2 city3
+success

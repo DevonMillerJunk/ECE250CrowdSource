@@ -1,0 +1,105 @@
+graph_nodes
+graph_edges
+d city1;city2
+shortest_d city1;city2
+print_path city1;city2
+setd city1;city2;15.5
+s city1
+s city2
+i city1
+i city1
+setd city1;city2;69.420
+setd city2;city1;1
+degree city1
+degree city2
+i city2
+setd city1;city2;5.5
+d city1;city2
+shortest_d city1;city2
+print_path city1;city2
+d city2;city1
+shortest_d city2;city1
+print_path city2;city1
+d city1;city1
+shortest_d city1;city1
+print_path city1;city1
+clear
+i 1
+i 2
+i 3
+i 4
+i 5
+i 6
+i 7
+setd 1;2;6
+setd 1;4;2
+setd 5;3;12
+setd 6;5;10
+setd 2;7;3
+setd 7;4;4
+setd 2;4;1
+setd 2;3;3
+degree 2
+graph_nodes
+graph_edges
+shortest_d 1;6
+print_path 1;6
+shortest_d 1;7
+print_path 1;7
+shortest_d 3;1
+print_path 3;1
+setd 2;6;5
+setd 3;4;1
+degree 2
+graph_nodes
+graph_edges
+shortest_d 1;6
+print_path 1;6
+shortest_d 1;7
+print_path 1;7
+shortest_d 3;1
+print_path 3;1
+i 8
+i 9
+i 11
+i 10
+s 1
+shortest_d 1;10
+print_path 1;10
+shortest_d 9;10
+print_path 9;10
+setd 8;9;6.1
+setd 8;11;5.6
+setd 11;9;12.2
+setd 8;10;3.9
+setd 9;10;1.7
+shortest_d 9;11
+print_path 9;11
+setd 9;11;11.2
+shortest_d 9;11
+print_path 9;11
+shortest_d 10;11
+print_path 10;11
+setd 9;11;11.1
+shortest_d 9;11
+print_path 9;11
+shortest_d 10;8
+print_path 10;8
+s 14
+s 10
+i 12
+d 10;12
+shortest_d 1;12
+print_path 12;6
+s 12
+clear
+i city2
+s city2
+i city1
+i city3
+setd city2;city1;1
+setd city2;city3;1
+d city1;city3
+shortest_d city1;city3
+print_path city1;city3
+clear
