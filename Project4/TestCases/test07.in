@@ -1,0 +1,11 @@
+i S F
+i A B C
+i X KC D
+i 123K AA-5f
+setd S F;123K AA-5f;2
+setd A B C;S F;3
+shortest_d A B C;123K AA-5f
+print_path A B C;123K AA-5f
+i  A  B  C
+s  A  B  C
+s A B C
