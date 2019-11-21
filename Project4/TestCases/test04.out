@@ -161,8 +161,8 @@ Chicago Lagos Chennai Seoul Beijing Hechi
 shortest distance Chicago to Hechi 78.3845
 Chennai Jakarta Wuhan Ahmedabad Singapore
 shortest distance Chennai to Singapore 43.5481
-Moscow Chongqing Washington Jakarta Wuhan Hanoi
-shortest distance Moscow to Hanoi 71.3999
+Moscow Chongqing Washington Chennai Hanoi
+shortest distance Moscow to Hanoi 43.6981
 Atlanta Ahmedabad Yokohama
 shortest distance Atlanta to Yokohama 70.763
 LosAngeles Hanoi Chennai Washington Chongqing
@@ -173,8 +173,8 @@ Jakarta Chennai Seoul Monterrey
 shortest distance Jakarta to Monterrey 31.3239
 Ahmedabad Kolkata
 shortest distance Ahmedabad to Kolkata 1.0469
-Karachi Kolkata Ahmedabad Hanoi Chennai HoChiMinhCity
-shortest distance Karachi to HoChiMinhCity 89.326
+Karachi Kolkata Ahmedabad Wuhan Jakarta Chennai HoChiMinhCity
+shortest distance Karachi to HoChiMinhCity 74.804
 Hanoi Chennai Jakarta
 shortest distance Hanoi to Jakarta 4.07374
 Chicago Shenyeng Chittagong Monterrey
@@ -209,16 +209,16 @@ Seoul Chennai Washington Riyadh
 shortest distance Seoul to Riyadh 50.4032
 Chittagong Monterrey
 shortest distance Chittagong to Monterrey 33.8451
-Chongqing Washington Jakarta
-shortest distance Chongqing to Jakarta 48.6801
+Chongqing Washington Chennai Jakarta
+shortest distance Chongqing to Jakarta 39.6775
 Yokohama Chennai Jakarta
 shortest distance Yokohama to Jakarta 20.4859
 Hechi Beijing Seoul Chennai HoChiMinhCity
 shortest distance Hechi to HoChiMinhCity 39.1796
 Wuhan Ahmedabad Singapore Baghdad
 shortest distance Wuhan to Baghdad 52.6623
-Ahmedabad Wuhan Jakarta Washington
-shortest distance Ahmedabad to Washington 42.8738
+Ahmedabad Wuhan Jakarta Chennai Washington
+shortest distance Ahmedabad to Washington 33.8712
 Chicago Lagos Chennai HoChiMinhCity
 shortest distance Chicago to HoChiMinhCity 59.8006
 Pune Chicago Cairo
@@ -229,7 +229,7 @@ Surat Jakarta Chennai Hanoi Dongguan
 shortest distance Surat to Dongguan 97.9028
 Yokohama Chennai Hanoi
 shortest distance Yokohama to Hanoi 17.7571
-Atlanta Chittagong Shenyeng Chicago LosAngeles
-shortest distance Atlanta to LosAngeles 122.664
+Atlanta Ahmedabad Wuhan Jakarta Chennai Hanoi LosAngeles
+shortest distance Atlanta to LosAngeles 116.808
 Hanoi Chennai Seoul Monterrey Chittagong
 shortest distance Hanoi to Chittagong 62.4402
